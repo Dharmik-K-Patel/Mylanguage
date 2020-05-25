@@ -1,0 +1,6 @@
+give me conversion of megabyte to byte of 4096
+give me conversion of megabyte to kilobyte of 4096
+give me conversion of megabyte to gigabyte of 4096
+give me conversion of gigabyte to byte of 4096
+give me conversion of gigabyte to kilobyte of 4096
+give me conversion of gigabyte to megabyte of 4096
